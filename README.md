@@ -2,10 +2,11 @@
 
 This repository is part of the Solid activities that PLDN is involved in. 
 
-<em><strong>Disclaimer</strong>: 
-Please be aware that PLDN has no ownership in the Netherlands for initiating Solid activities. Anybody can initiate Solid activities in the Nerherlands and within the worldwide Solid community. 
+<em><strong>Disclaimer</strong></em>: 
 
-For more information on Solid see the <strong>[Solid project](https://solidproject.org/)</strong> website.</em>
+<em>Please be aware that PLDN has no ownership in the Netherlands for initiating Solid activities. Anybody can initiate Solid activities in the Nerherlands and within the worldwide Solid community.</em>
+
+<em>For more information on Solid see the <strong>[Solid project](https://solidproject.org/)</strong> website.</em>
 
 The data storage in Solid data pods is based upon linked data. In a data pod you can store any kind of data and the meta and provenance data of that data is defined as linked data in Turtle files (e.g. who adds what, when, etc.). So, a data pod is nothing more than a data container and a data storage place for your personal data. The big advantage of this solution is that you can manage your personal data in your pod yourself and share it securely with others via the use of Solid apps. You are in control of your personal data. And your data stays in your pod (and is stored only oncle without unnecessarry copies) and other data can be linked to your data in a uniform way via Solid apps.
 
