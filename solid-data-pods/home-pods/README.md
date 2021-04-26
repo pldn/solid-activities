@@ -6,4 +6,4 @@ From the first discussions within the PLDN-community about promising Solid use c
 
 Therefore, PLDN is also looking for interested parties that participate in a PLDN Home Pods Working Group and when other organizations have already started modelling activities in this direction then we would like to collaborate with them to accelerate activities around this topic.
 
-Please contact Pieter van Everdingen via (<mailto:info@pldn.nl>) when you would like to participate in a PLDN Home Pods Working Group.
+Please contact Pieter van Everdingen via <info@pldn.nl> when you would like to participate in a PLDN Home Pods Working Group.
