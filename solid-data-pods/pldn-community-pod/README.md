@@ -1,4 +1,4 @@
-<H1> PLDN Community Pod</H1>
+<H1> PLDN Community pod</H1>
 
 The idea for a <strong>PLDN Community Pod</strong> has already been discussed during several [Solid Meetups](https://github.com/linkeddatanl/solid-activities/tree/main/solid-meetups) (e.g. Solid Utrecht and The Hague). 
 
