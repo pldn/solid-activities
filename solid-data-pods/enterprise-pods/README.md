@@ -8,3 +8,5 @@ PLDN is looking for interested parties that want to participate in a PLDN Workin
 
 We expect that the [Shape Trees Specification](https://shapetrees.org/TR/specification/) is stable enough the second half of 2021 to start more modelling and implementation activities around this specification to build up more best practices for shape trees. Given the commonality and variety in business activities, we would like to define a first model using shapes and shape trees that can form the basis for a number of interoperable Solid business apps. And we would also like to use this activity to find out how much flexibility you can have in container hierarchies and resource type definitions without losing interoperability between overlapping Solid apps.
 
+Please contact Pieter van Everdingen via info@pldn.nl when you would like to participate in a PLDN Enterprise Pods Working Group
+
